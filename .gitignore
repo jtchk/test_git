@@ -1,0 +1,10 @@
+#Backup filre left behind by the vim editor.
+*~
+#Temporary files used by the vim editor.
+.*.swp
+#complied objects
+*.pyc
+*.o
+#directory fileter example (case sensitive)
+#ignore log dir
+Logs/
